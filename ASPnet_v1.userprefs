@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A67B66A1-9B06-457B-B472-90C26E2864FE}|">
+  <MonoDevelop.Ide.ItemProperties.ASPnet__v1.Web.Api PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPnet_v1 Status">
+    <Files>
+      <File FileName="ASPnet_v1 Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ASPnet__v1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

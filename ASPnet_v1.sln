@@ -1,7 +1,8 @@
-
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet_v1", "ASPnet_v1\ASPnet_v1.csproj", "{5EF2FC0B-3E2D-40D9-A354-B6143B184CCD}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F43728B2-AEAF-478C-A9D1-D4FF516E1FF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet_v1.Data", "ASPnet_v1.Data\ASPnet_v1.Data.csproj", "{768EDD5E-E729-4515-8093-762898CB5B64}"
 EndProject
@@ -14,8 +15,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet_v1.Web.Common", "ASPnet_v1.Web.Common\ASPnet_v1.Web.Common.csproj", "{0D0629DD-1CAD-4B88-8DC8-C110006242E2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet_v1.Web.Api", "ASPnet_v1.Web.Api\ASPnet_v1.Web.Api.csproj", "{A67B66A1-9B06-457B-B472-90C26E2864FE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F43728B2-AEAF-478C-A9D1-D4FF516E1FF2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPnet_v1.Common.Tests", "ASPnet_v1.Common.Tests\ASPnet_v1.Common.Tests.csproj", "{CE08896D-7D69-4E6C-B474-7F42AD1193B7}"
 EndProject
@@ -35,10 +34,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5EF2FC0B-3E2D-40D9-A354-B6143B184CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5EF2FC0B-3E2D-40D9-A354-B6143B184CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5EF2FC0B-3E2D-40D9-A354-B6143B184CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5EF2FC0B-3E2D-40D9-A354-B6143B184CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{768EDD5E-E729-4515-8093-762898CB5B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{768EDD5E-E729-4515-8093-762898CB5B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{768EDD5E-E729-4515-8093-762898CB5B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +82,9 @@ Global
 		{97A42F0B-0AEB-4688-9478-86AFB7FE4F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97A42F0B-0AEB-4688-9478-86AFB7FE4F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97A42F0B-0AEB-4688-9478-86AFB7FE4F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CE08896D-7D69-4E6C-B474-7F42AD1193B7} = {F43728B2-AEAF-478C-A9D1-D4FF516E1FF2}

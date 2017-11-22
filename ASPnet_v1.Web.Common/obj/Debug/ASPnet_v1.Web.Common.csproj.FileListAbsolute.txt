@@ -5,6 +5,10 @@
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Web.Common/obj/Debug/ASPnet_v1.Web.Common.pdb
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\ASPnet_v1.Web.Common.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\ASPnet_v1.Web.Common.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Ninject.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Ninject.Web.Common.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Ninject.xml
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Ninject.Web.Common.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.csprojResolveAssemblyReference.cache
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.pdb

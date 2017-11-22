@@ -42,6 +42,5 @@ C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\bin\Debug
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\bin\Debug\NHibernate.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\bin\Debug\Ninject.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\bin\Debug\Ninject.Web.Common.xml
-C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\obj\Debug\ASPnet_v1.Common.csprojResolveAssemblyReference.cache
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\obj\Debug\ASPnet_v1.Common.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common\obj\Debug\ASPnet_v1.Common.pdb

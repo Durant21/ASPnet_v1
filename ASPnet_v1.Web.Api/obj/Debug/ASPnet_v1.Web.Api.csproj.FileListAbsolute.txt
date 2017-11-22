@@ -83,6 +83,5 @@ C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\bin\Flue
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\bin\Ninject.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\bin\Ninject.Web.Common.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\bin\Ninject.Web.Common.WebHost.xml
-C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\obj\Debug\ASPnet_v1.Web.Api.csprojResolveAssemblyReference.cache
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\obj\Debug\ASPnet_v1.Web.Api.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Api\obj\Debug\ASPnet_v1.Web.Api.pdb

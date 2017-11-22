@@ -3,7 +3,7 @@
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Data/obj/Debug/ASPnet_v1.Data.csproj.CoreCompileInputs.cache
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Data/obj/Debug/ASPnet_v1.Data.dll
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Data/obj/Debug/ASPnet_v1.Data.pdb
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Data/bin/Debug/ASPnet_v1.Data.dll
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Data/bin/Debug/ASPnet_v1.Data.pdb
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Data/obj/Debug/ASPnet_v1.Data.dll
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Data/obj/Debug/ASPnet_v1.Data.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Data\bin\Debug\ASPnet_v1.Data.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Data\bin\Debug\ASPnet_v1.Data.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Data\obj\Debug\ASPnet_v1.Data.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Data\obj\Debug\ASPnet_v1.Data.pdb

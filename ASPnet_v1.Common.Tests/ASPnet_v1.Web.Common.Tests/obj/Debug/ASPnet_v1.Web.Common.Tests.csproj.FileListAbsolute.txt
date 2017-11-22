@@ -7,3 +7,4 @@ C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASP
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\bin\Debug\ASPnet_v1.Web.Common.Tests.pdb
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\obj\Debug\ASPnet_v1.Web.Common.Tests.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\obj\Debug\ASPnet_v1.Web.Common.Tests.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\obj\Debug\ASPnet_v1.Web.Common.Tests.csprojResolveAssemblyReference.cache

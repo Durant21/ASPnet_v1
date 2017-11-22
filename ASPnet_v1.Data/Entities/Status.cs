@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ASPnet_v1.Data.Entities
 {
-    class Status
+    public class Status
     {
         public virtual long StatusId { get; set; }
         public virtual string Name { get; set; }

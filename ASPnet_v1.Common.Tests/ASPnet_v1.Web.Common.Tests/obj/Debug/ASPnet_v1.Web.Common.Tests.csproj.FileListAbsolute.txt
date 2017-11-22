@@ -3,9 +3,8 @@
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.csproj.CoreCompileInputs.cache
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.dll
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.pdb
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/bin/Debug/ASPnet_v1.Web.Common.Tests.dll
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/bin/Debug/ASPnet_v1.Web.Common.Tests.pdb
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.dll
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.pdb
-C:/Projects/tutorials/WebApi2Book/ASPnet_v1/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.csprojResolveAssemblyReference.cache
 /Users/dantefernandez/Projects/VS_Community/ASPnet_v1/ASPnet_v1.Common.Tests/ASPnet_v1.Web.Common.Tests/obj/Debug/ASPnet_v1.Web.Common.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\bin\Debug\ASPnet_v1.Web.Common.Tests.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\bin\Debug\ASPnet_v1.Web.Common.Tests.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\obj\Debug\ASPnet_v1.Web.Common.Tests.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Common.Tests\ASPnet_v1.Web.Common.Tests\obj\Debug\ASPnet_v1.Web.Common.Tests.pdb

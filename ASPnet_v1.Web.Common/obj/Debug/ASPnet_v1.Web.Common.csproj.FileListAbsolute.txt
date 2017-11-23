@@ -16,3 +16,13 @@ C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\D
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Ninject.Web.Common.xml
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.dll
 C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.pdb
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\ASPnet_v1.Web.Common.dll.config
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Web.Http.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Web.Http.xml
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\tutorials\WebApi2Book\ASPnet_v1\ASPnet_v1\ASPnet_v1.Web.Common\obj\Debug\ASPnet_v1.Web.Common.csprojResolveAssemblyReference.cache

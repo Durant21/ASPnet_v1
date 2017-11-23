@@ -117,6 +117,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\V1\ITasksControllerDependencyBlock.cs" />
+    <Compile Include="Controllers\V1\StatusesController.cs" />
+    <Compile Include="Controllers\V1\TasksController.cs" />
+    <Compile Include="Controllers\V1\TasksControllerDependencyBlock.cs" />
+    <Compile Include="Controllers\V1\TaskUsersController.cs" />
+    <Compile Include="Controllers\V1\TaskWorkflowController.cs" />
+    <Compile Include="Controllers\V1\UsersController.cs" />
+    <Compile Include="Controllers\V2\TasksController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
